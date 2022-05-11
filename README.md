@@ -1,3 +1,16 @@
+INSTAGRAM CLONE IN REACTJS
+
+Result:
+
+<div align="center">
+<img src="https://github.com/RianPaiva/instagram-tribute/blob/master/instagrao.png?raw=true" />
+</div>
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
